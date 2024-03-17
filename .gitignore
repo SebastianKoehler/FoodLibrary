@@ -1,0 +1,19 @@
+
+# Environment file with database connection details and other informations
+.env
+appsettings.Development.json
+appsettings.json
+
+# Project specific files
+FoodLibrary.csproj
+FoodLibrary.csproj.user
+FoodLibrary.sln
+
+# IDE specific files
+.vs/
+.idea/
+
+# For security reasons
+Properties/
+obj/
+bin/
