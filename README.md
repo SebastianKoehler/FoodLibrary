@@ -24,6 +24,7 @@
 ```
 dotnet --version
 ```
+
 > [!IMPORTANT]
 > If this command failed, please go to:
 >[download latest SDK](https://dotnet.microsoft.com/en-us/download)
@@ -38,6 +39,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 ```
 dotnet ef
 ```
+
 > [!IMPORTANT]
 > If this command failed, run:
 >```
@@ -53,6 +55,7 @@ dotnet ef migrations add InitialCreate
 ```
 dotnet ef database update 
 ```
+
 > [!NOTE]
 > You should see a new FoodLibrary.db file in your root folder 
 
