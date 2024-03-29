@@ -1,6 +1,5 @@
 
 # Environment file with database connection details and other informations
-.env
 appsettings.Development.json
 appsettings.json
 
